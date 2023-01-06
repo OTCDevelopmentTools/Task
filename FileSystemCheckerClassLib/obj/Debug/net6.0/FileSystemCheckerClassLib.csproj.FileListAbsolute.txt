@@ -1,0 +1,12 @@
+E:\Development\2023\FileSystemCheckerClassLib\bin\Debug\net6.0\FileSystemCheckerClassLib.deps.json
+E:\Development\2023\FileSystemCheckerClassLib\bin\Debug\net6.0\FileSystemCheckerClassLib.dll
+E:\Development\2023\FileSystemCheckerClassLib\bin\Debug\net6.0\FileSystemCheckerClassLib.pdb
+E:\Development\2023\FileSystemCheckerClassLib\obj\Debug\net6.0\FileSystemCheckerClassLib.csproj.AssemblyReference.cache
+E:\Development\2023\FileSystemCheckerClassLib\obj\Debug\net6.0\FileSystemCheckerClassLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\2023\FileSystemCheckerClassLib\obj\Debug\net6.0\FileSystemCheckerClassLib.AssemblyInfoInputs.cache
+E:\Development\2023\FileSystemCheckerClassLib\obj\Debug\net6.0\FileSystemCheckerClassLib.AssemblyInfo.cs
+E:\Development\2023\FileSystemCheckerClassLib\obj\Debug\net6.0\FileSystemCheckerClassLib.csproj.CoreCompileInputs.cache
+E:\Development\2023\FileSystemCheckerClassLib\obj\Debug\net6.0\FileSystemCheckerClassLib.dll
+E:\Development\2023\FileSystemCheckerClassLib\obj\Debug\net6.0\refint\FileSystemCheckerClassLib.dll
+E:\Development\2023\FileSystemCheckerClassLib\obj\Debug\net6.0\FileSystemCheckerClassLib.pdb
+E:\Development\2023\FileSystemCheckerClassLib\obj\Debug\net6.0\ref\FileSystemCheckerClassLib.dll
